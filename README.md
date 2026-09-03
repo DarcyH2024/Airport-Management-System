@@ -22,4 +22,4 @@ This project is a relational database designed to manage core airport operations
 - Schema design  
 - [ERD](https://github.com/DarcyH2024/Airport-Management-System/raw/refs/heads/main/Airport%20Management%20Database%20ERD.mwb)
 - Table creation scripts  
-- Sample queries and reports
+- Sample queries, indexes, and views
